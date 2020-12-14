@@ -7,8 +7,8 @@ setup(
     version='1.0',
     description='Data Science example for building Python project with JFrog products',
     author='JFrog',
-    author_email='jfrog@jfrog.com',
-    url='https://github.com/jfrog/project-examples',
+    author_email='sivas@jfrog.com',
+    url='https://github.com/shivaraman83/Data-Science-Projects',
     packages=['FaceRecognition'],
     install_requires=['PyYAML>3.11', 'nltk'],
 )
