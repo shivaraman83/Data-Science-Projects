@@ -1,0 +1,4 @@
+PyYAML>3.11
+nltk
+opencv-python
+numpy
